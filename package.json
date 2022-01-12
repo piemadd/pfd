@@ -1,0 +1,11 @@
+{
+    "name": "pfd",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "node index.js"
+    },
+    "author": "Piero Maddaleni <piero@piemadd.com>",
+    "license": "PAN"
+}
