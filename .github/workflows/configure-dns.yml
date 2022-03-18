@@ -1,9 +1,6 @@
 --- 
 name: "Building DNS"
-on: 
-    pull_request: 
-        branches: 
-            - main
+on:
     push: 
         branches: 
             - main
